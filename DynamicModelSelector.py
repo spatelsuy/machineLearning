@@ -1,4 +1,3 @@
-# dynamic_model_selector.py
 # This program identifies the best-fit mathematical model from training data.
 
 import math
@@ -10,8 +9,6 @@ def model_pow_ab(a, b): return a ** b if a > 0 else float('inf')
 def model_pow_ba(a, b): return b ** a if b > 0 else float('inf')
 def model_sq_plus_b(a, b): return a * a + b
 def model_a_plus_sq_b(a, b): return a + b * b
-
-
 
 def power_regression(train_data):
     import numpy as np

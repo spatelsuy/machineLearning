@@ -1,12 +1,11 @@
+import streamlit as st
+import numpy as np
+
 st.write("""
 For a traditional programmer, it is a puzzle how machine learning models actually learn. At the end, it is a program written in a programming language.
 So, how does the program behind a machine learning model differ from traditional C/C++/Fortran/Basic/Pascal/COBOL programs?
 [Learn more here](https://www.linkedin.com/pulse/how-machine-learning-models-learn-perspective-sunil-patel-90iye)
 """)
-
-
-import streamlit as st
-import numpy as np
 
 # --- Symbolic models ---
 def model_add(a, b): return a + b

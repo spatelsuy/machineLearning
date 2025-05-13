@@ -1,10 +1,10 @@
 import streamlit as st
 import numpy as np
-
 st.write("""
-For a traditional programmer, it is a puzzle how machine learning models actually learn. At the end, it is a program written in a programming language.
-So, how does the program behind a machine learning model differ from traditional C/C++/Fortran/Basic/Pascal/COBOL programs?
+For a traditional programmer, it is a puzzle how machine learning models actually learn. At the end, it is a program written in a programming language.  
+So, how does the program behind a machine learning model differ from traditional C/C++/Fortran/Basic/Pascal/COBOL programs?  
 [Learn more here](https://www.linkedin.com/pulse/how-machine-learning-models-learn-perspective-sunil-patel-90iye)
+Experiment with the model below. Visit [GitHub](https://github.com/spatelsuy/machineLearning) to get a sneak peek of the code.
 """)
 
 # --- Symbolic models ---

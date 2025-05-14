@@ -6,21 +6,7 @@ So, how does the program behind a machine learning model differ from traditional
 [Learn more here](https://www.linkedin.com/pulse/how-machine-learning-models-learn-perspective-sunil-patel-90iye)  
 Experiment with the model below. Visit [GitHub](https://github.com/spatelsuy/machineLearning) to get a sneak peek of the code.
 """)
-
-
-
-st.write("""
-For a traditional programmer, it is a puzzle how machine learning models actually learn. At the end, it is a program written in a programming language.
-So, how does the program behind a machine learning model differ from traditional C/C++/Fortran/Basic/Pascal/COBOL programs?
-""")
-
-# Use markdown for a styled hyperlink
-st.markdown("[Learn more here](https://www.linkedin.com/pulse/how-machine-learning-models-learn-perspective-sunil-patel-90iye)")
-
-st.write("Experiment with the model below.")
-
-# Use markdown again for a second link
-st.markdown("Visit [GitHub](https://github.com/spatelsuy/machineLearning) to get a **sneak peek** of the code.")
+st.write("Experiment with the model below. Also visit [GitHub](https://github.com/spatelsuy/machineLearning) to get a **sneak peek** of the code.")
 
 
 
